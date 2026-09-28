@@ -93,7 +93,7 @@ Before code, I spent years in psychology (assessment, CBT, trauma and crisis wor
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1437?style=for-the-badge&logo=googlechrome&logoColor=F5B942)](https://REPLACE-ME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE-ME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeff-kibet-b5233242a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-F5B942?style=for-the-badge&logo=gmail&logoColor=0B1437)](mailto:REPLACE-ME@example.com)
 
 <br/>
